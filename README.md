@@ -2,6 +2,7 @@
 ## This is the final project for the getting and cleaning data course
 
 This project provides a script called “run_analysis.R” which does the following:
+
 1.	Create a place to download and unzip the “UCI HAR dataset” if it is currently not in the working directory
 
 2.	A list of all files will be created
